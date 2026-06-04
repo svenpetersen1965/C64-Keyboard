@@ -4,7 +4,8 @@ This is a work in progress. I am sharing some files in advance. A full release w
 
 This project has already been a long journey (17 months) and required quite a bit of budget, already.
 
-My too slowly evolving C64 keyboard project…
+<img src="[https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/Rev.0/pictures/diag586220_harness.jpg](https://github.com/svenpetersen1965/C64-Keyboard/blob/main/pictures/3992_-_full_assembly_w_keycaps.JPG)" width="300" alt="Keyboard with keycaps">
+
 It started end of January 2025. So, I was not satisfied with the shift lock circuit in Rev. 0. It worked perfectly from a lab power supply, but in some real C64, it had shift lock activated on power on. It seems to depend on the supply voltage. So I have made a rev. 1. Also, I have derived a version with hot swap sockets for the keyboard switches. The switches and their characteristics are a big thing and a matter of personal preference and of course, matter of the price. I have seen switches for 0.25€ and also for 0.95€ each. The stabilizer for the space bar and the RETURN key can also be crazy expensive. You can get both for 7€ or easily 25€.
 
 The PBT blank key caps are about 0,21€ each, the space bar is 1.25€.
