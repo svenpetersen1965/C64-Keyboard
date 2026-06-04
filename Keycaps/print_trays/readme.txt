@@ -1,0 +1,1 @@
+The print trays have a grid distance of 19.8mm. They are for printing or laser etching the key caps multiple at once, while fabrication. 
