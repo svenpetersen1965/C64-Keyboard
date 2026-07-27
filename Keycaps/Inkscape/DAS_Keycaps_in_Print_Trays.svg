@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="Print_Trays.svg"
+   sodipodi:docname="DAS_Keycaps_in_Print_Trays.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.5307255"
-     inkscape:cx="336.76842"
-     inkscape:cy="381.84509"
+     inkscape:zoom="1.0823864"
+     inkscape:cx="194.93963"
+     inkscape:cy="812.55642"
      inkscape:window-width="2560"
      inkscape:window-height="1411"
      inkscape:window-x="-9"
@@ -4187,18 +4187,242 @@
     <text
        xml:space="preserve"
        style="font-size:3.42281px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="26.445793"
-       y="254.60558"
+       x="136.03163"
+       y="247.00023"
        id="text151"><tspan
          sodipodi:role="line"
          id="tspan151"
          style="stroke-width:0.264583"
-         x="26.445793"
-         y="254.60558">Tray 1U:    51.6mm x 51.6mm</tspan><tspan
+         x="136.03163"
+         y="247.00023">Tray 1U:    51.6mm x 51.6mm</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="26.445793"
-         y="258.02838"
+         x="136.03163"
+         y="250.42305"
          id="tspan152">Tray 1.5U: 21.7mm x 71.5mm</tspan></text>
+    <g
+       id="g1"
+       transform="translate(-100.39228,-30.075608)">
+      <rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.1;paint-order:markers fill stroke"
+         id="rect1-2-2-6-6-2-2-5"
+         width="51.599998"
+         height="51.599998"
+         x="120.68117"
+         y="235.17087" />
+      <g
+         id="g130-3"
+         inkscape:export-filename="SW64_CRSRlr.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"
+         transform="translate(-93.69074,115.14066)">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.0499999;stroke-linecap:round;paint-order:markers fill stroke"
+           id="rect18-52-9"
+           width="12.15"
+           height="12.15"
+           x="234.09691"
+           y="119.98022"
+           rx="1.4938525"
+           ry="1.4938525" />
+        <g
+           id="g101-2"
+           transform="translate(-9.029044,0.1944794)">
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:3.45153px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Medium';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="248.06407"
+             y="125.50481"
+             id="text15-9-0-9-9-1-4"
+             transform="scale(0.98759873,1.012557)"><tspan
+               sodipodi:role="line"
+               id="tspan15-8-1-4-2-5-6"
+               style="stroke-width:0.264583"
+               x="248.06407"
+               y="125.50481">CRSR</tspan></text>
+          <g
+             id="g100-1"
+             transform="translate(0.1711823)">
+            <g
+               id="g23-4-8"
+               transform="translate(57.89002,-16.721088)">
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 188.52921,138.63379 h 5.71699"
+                 id="path22-2"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 190.48828,137.46244 -2.083,1.17139 2.07811,1.17139"
+                 id="path23-4-11"
+                 sodipodi:nodetypes="ccc" />
+            </g>
+            <g
+               id="g23-9-9"
+               transform="matrix(-1,0,0,1,440.16951,-8.825011)">
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 188.52921,138.63379 h 5.71699"
+                 id="path22-5-7"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 190.48828,137.46244 -2.083,1.17139 2.07811,1.17139"
+                 id="path23-4-1-6"
+                 sodipodi:nodetypes="ccc" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g129-2"
+         inkscape:export-filename="SW63_CRSRud.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"
+         transform="translate(-99.06201,115.14066)">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.0499999;stroke-linecap:round;paint-order:markers fill stroke"
+           id="rect18-48-9"
+           width="12.15"
+           height="12.15"
+           x="219.69318"
+           y="119.98022"
+           rx="1.4938525"
+           ry="1.4938525" />
+        <g
+           id="g99-5"
+           transform="translate(-8.42556,0.15229611)">
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:3.45153px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Medium';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="232.86841"
+             y="125.46597"
+             id="text15-9-0-9-9-2"
+             transform="scale(0.98759873,1.012557)"><tspan
+               sodipodi:role="line"
+               id="tspan15-8-1-4-2-0"
+               style="stroke-width:0.264583"
+               x="232.86841"
+               y="125.46597">CRSR</tspan></text>
+          <g
+             id="g98-0"
+             transform="translate(-0.02930691)">
+            <g
+               id="g24-4-3"
+               transform="translate(0.12172136,0.03049061)">
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 234.10131,120.96583 v 2.84707"
+                 id="path22-3-9"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 235.27266,122.9249 -1.17139,-2.083 -1.17139,2.07811"
+                 id="path23-4-0-1"
+                 sodipodi:nodetypes="ccc" />
+            </g>
+            <g
+               id="g24-3-8"
+               transform="matrix(1,0,0,-1,0.12172136,251.77534)">
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 234.10131,120.96583 v 2.84707"
+                 id="path22-3-6-1"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 235.27266,122.9249 -1.17139,-2.083 -1.17139,2.07811"
+                 id="path23-4-0-5-9"
+                 sodipodi:nodetypes="ccc" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g146-2"
+         transform="translate(9.633247,60.495874)">
+        <path
+           id="rect18-67-8-8"
+           style="fill:#ffffff;stroke:none;stroke-width:0.0499999;stroke-linecap:round;paint-order:markers fill stroke"
+           d="m 152.04177,174.625 h 9.16229 c 0.8276,0 1.49386,0.66626 1.49386,1.49385 v 9.1623 c 0,0.82759 -0.66626,1.49385 -1.49386,1.49385 h -9.16229 c -0.8276,0 -1.49385,-0.66626 -1.49385,-1.49385 v -9.1623 c 0,-0.82759 0.66625,-1.49385 1.49385,-1.49385 z" />
+        <g
+           id="g132-9">
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:3.4228px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Medium';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="155.79637"
+             y="175.56097"
+             id="text15-9-00-7-2-4"
+             transform="scale(0.97937773,1.0210565)"><tspan
+               sodipodi:role="line"
+               id="tspan15-8-4-7-4"
+               style="stroke-width:0.264583"
+               x="155.79637"
+               y="175.56097">PREV</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+             x="177.88358"
+             y="162.63742"
+             id="text4"
+             transform="scale(0.88041313,1.1358304)"><tspan
+               sodipodi:role="line"
+               id="tspan1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+               x="177.88358"
+               y="162.63742">FREEZE</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g147-1"
+         transform="translate(-44.326564,80.270858)">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.0499999;stroke-linecap:round;paint-order:markers fill stroke"
+           id="rect18-67-7-5-9"
+           width="12.15"
+           height="12.15"
+           x="164.95773"
+           y="174.62502"
+           rx="1.4938525"
+           ry="1.4938525" />
+        <g
+           id="g133-6">
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:3.4228px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Medium';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="170.56094"
+             y="175.41505"
+             id="text15-9-00-1"
+             transform="scale(0.97937773,1.0210565)"><tspan
+               sodipodi:role="line"
+               id="tspan15-8-4-71"
+               style="stroke-width:0.264583"
+               x="170.56094"
+               y="175.41505">NEXT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+             x="171.03104"
+             y="184.68092"
+             id="text21"><tspan
+               sodipodi:role="line"
+               id="tspan20-9"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4px;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+               x="171.03104"
+               y="184.68092">MENU</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="26.908009"
+       y="260.94525"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.264583"
+         x="27.323509"
+         y="260.94525">Ultimate </tspan></text>
   </g>
 </svg>
