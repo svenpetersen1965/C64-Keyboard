@@ -24,11 +24,11 @@ The original space bar is 9U wide. I did not find that available anywhere. So I 
 
 The two additional keys will do kernal switching together with the RESTORE key, you don’t want to switch kernals accidentally. The RESTORE key will also work as RESET, when it is held for 3 seconds or as EXROM RESET, when held for 5 seconds.
 
-For the Ultimate C64 or C64 Ultimate, the two additional switches can also act as Freeze and Menu (when pressed together with RESTORE).
-
 I did not want to do a light show/LED strips in the beginning, but there were some GPIO pins left on the (Arduino) pro micro, so I finally changed my mind. A WS2812B type LED strip can be connected and it will do 10 different color/brightness effects.
 A piezo buzzer is on the PCB, an OLED display can be connected. A power LED can be connected to the PCB (left and right).
-Further on, I want to implement an Ultimate 64 mode, which will do freeze, reset and menu with the two extra keys and RESTORE.
+
+For the Ultimate C64 or C64 Ultimate, the two additional switches can also act as Freeze and Menu (when pressed together with RESTORE). Holding RESTORE for 3 seconds will act as reset.
+
 It is also possible to let the keyboard act like a USB keyboard for VICE. It works with an English or German keyboard layout.
 There are SMD ICs, passives and transistors on board. I just could not prevent it on a keyboard.
 The keyboard cable is a ribbon cable with a small PCB at one side. That is easier and cheaper to produce, than a cable with crimp terminals.
