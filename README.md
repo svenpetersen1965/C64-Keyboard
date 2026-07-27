@@ -20,9 +20,11 @@ Next is uv printing. That would require an expensive UV printer, the legends can
 Original keycaps with little adapters are also possible. The 1.5U (wide) key caps like the function keys are different from the modern key caps, which have the switch connection in the middle. The original 1.5U key caps have two switch connections and use the right (the RESTORE key the left) one of them. Those keys have two switch positions.
 The plastic frame is 3D printed in two parts. It is screwed to the PCB and is pretty rigid. They keyboard does not bend or wrap while typing.
 
-The original space bar is 9U wide. I did not find that available anywhere. So I decided for a 7U space bar and two additional 1U switches (1U+7U￼+1U = 9U).
+The original space bar is 9U wide. I did not find that available anywhere. So I decided for a 7U space bar and two additional 1U switches (1U+7U+1U = 9U).
 
-￼The two additional keys will do kernal switching together with the RESTORE key, you don’t want to switch kernals accidentally. The RESTORE key will also work as RESET, when it is held for 3 seconds or as EXROM RESET, when held for 5 seconds.
+The two additional keys will do kernal switching together with the RESTORE key, you don’t want to switch kernals accidentally. The RESTORE key will also work as RESET, when it is held for 3 seconds or as EXROM RESET, when held for 5 seconds.
+
+For the Ultimate C64 or C64 Ultimate, the two additional switches can also act as Freeze and Menu (when pressed together with RESTORE).
 
 I did not want to do a light show/LED strips in the beginning, but there were some GPIO pins left on the (Arduino) pro micro, so I finally changed my mind. A WS2812B type LED strip can be connected and it will do 10 different color/brightness effects.
 A piezo buzzer is on the PCB, an OLED display can be connected. A power LED can be connected to the PCB (left and right).
