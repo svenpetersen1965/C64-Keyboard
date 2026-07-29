@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="DAS_Keycaps_in_Print_Trays.svg"
+   sodipodi:docname="DSA_Keycaps_in_Print_Trays.svg"
    inkscape:export-filename="Exported_DSA_keycaps\Tray_1_5U_01.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600"
@@ -26,15 +26,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.1647728"
-     inkscape:cx="324.05248"
-     inkscape:cy="118.02624"
-     inkscape:window-width="2560"
-     inkscape:window-height="1411"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="1.8369894"
+     inkscape:cx="154.60078"
+     inkscape:cy="881.87771"
+     inkscape:window-width="1939"
+     inkscape:window-height="1224"
+     inkscape:window-x="286"
+     inkscape:window-y="161"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1" />
   <g
@@ -4206,7 +4207,6 @@
          id="tspan152">Tray 1.5U: 21.7mm x 71.5mm</tspan></text>
     <g
        id="g1"
-       transform="translate(-100.39228,-30.075608)"
        inkscape:export-filename="Exported_DSA_keycaps\Tray_1_0U_07a.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600">
@@ -4215,14 +4215,14 @@
          id="rect1-2-2-6-6-2-2-5"
          width="51.599998"
          height="51.599998"
-         x="120.68117"
-         y="235.17087" />
+         x="20.288887"
+         y="205.09526" />
       <g
          id="g130-3"
          inkscape:export-filename="SW64_CRSRlr.png"
          inkscape:export-xdpi="600"
          inkscape:export-ydpi="600"
-         transform="translate(-93.69074,115.14066)">
+         transform="translate(-194.08302,85.065052)">
         <rect
            style="fill:#ffffff;stroke:none;stroke-width:0.0499999;stroke-linecap:round;paint-order:markers fill stroke"
            id="rect18-52-9"
@@ -4286,7 +4286,7 @@
          inkscape:export-filename="SW63_CRSRud.png"
          inkscape:export-xdpi="600"
          inkscape:export-ydpi="600"
-         transform="translate(-99.06201,115.14066)">
+         transform="translate(-199.45429,85.065052)">
         <rect
            style="fill:#ffffff;stroke:none;stroke-width:0.0499999;stroke-linecap:round;paint-order:markers fill stroke"
            id="rect18-48-9"
@@ -4346,77 +4346,83 @@
         </g>
       </g>
       <g
-         id="g146-2"
-         transform="translate(9.633247,60.495874)">
+         id="g146-26"
+         transform="translate(4.773898,22.084839)"
+         inkscape:export-filename="Exported_DSA_keycaps\SW67_PREV_FREEZE.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600">
         <path
-           id="rect18-67-8-8"
+           id="rect18-67-8-8-0"
            style="fill:#ffffff;stroke:none;stroke-width:0.0499999;stroke-linecap:round;paint-order:markers fill stroke"
-           d="m 152.04177,174.625 h 9.16229 c 0.8276,0 1.49386,0.66626 1.49386,1.49385 v 9.1623 c 0,0.82759 -0.66626,1.49385 -1.49386,1.49385 h -9.16229 c -0.8276,0 -1.49385,-0.66626 -1.49385,-1.49385 v -9.1623 c 0,-0.82759 0.66625,-1.49385 1.49385,-1.49385 z" />
+           d="m 56.508839,182.96043 h 9.16229 c 0.8276,0 1.49386,0.66626 1.49386,1.49385 v 9.1623 c 0,0.82759 -0.66626,1.49385 -1.49386,1.49385 h -9.16229 c -0.8276,0 -1.49385,-0.66626 -1.49385,-1.49385 v -9.1623 c 0,-0.82759 0.66625,-1.49385 1.49385,-1.49385 z" />
         <g
-           id="g132-9">
+           id="g132-1">
           <text
              xml:space="preserve"
              style="font-weight:500;font-size:3.4228px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Medium';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-             x="155.79637"
-             y="175.56097"
-             id="text15-9-00-7-2-4"
+             x="57.504448"
+             y="183.75636"
+             id="text15-9-00-7-2"
              transform="scale(0.97937773,1.0210565)"><tspan
                sodipodi:role="line"
-               id="tspan15-8-4-7-4"
+               id="tspan15-8-4-7-4-6"
                style="stroke-width:0.264583"
-               x="155.79637"
-               y="175.56097">PREV</tspan></text>
+               x="57.504448"
+               y="183.75636">PREV</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-             x="177.88358"
-             y="162.63742"
-             id="text4"
+             x="68.667839"
+             y="168.25691"
+             id="text4-5"
              transform="scale(0.88041313,1.1358304)"><tspan
                sodipodi:role="line"
-               id="tspan1"
+               id="tspan1-7"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-               x="177.88358"
-               y="162.63742">FREEZE</tspan></text>
+               x="68.667839"
+               y="168.25691">FREEZE</tspan></text>
         </g>
       </g>
       <g
-         id="g147-1"
-         transform="translate(-44.326564,80.270858)">
+         id="g148-4"
+         transform="translate(-34.776098,41.859831)"
+         inkscape:export-filename="Exported_DSA_keycaps\SW68_NEXT_MENU.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600">
         <rect
            style="fill:#ffffff;stroke:none;stroke-width:0.0499999;stroke-linecap:round;paint-order:markers fill stroke"
-           id="rect18-67-7-5-9"
+           id="rect18-67-7-5"
            width="12.15"
            height="12.15"
-           x="164.95773"
-           y="174.62502"
+           x="55.014984"
+           y="182.96043"
            rx="1.4938525"
            ry="1.4938525" />
         <g
-           id="g133-6">
+           id="g147-6">
           <text
              xml:space="preserve"
              style="font-weight:500;font-size:3.4228px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Medium';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-             x="170.56094"
-             y="175.41505"
-             id="text15-9-00-1"
+             x="57.470219"
+             y="183.75636"
+             id="text15-9-00-1-4"
              transform="scale(0.97937773,1.0210565)"><tspan
                sodipodi:role="line"
-               id="tspan15-8-4-71"
+               id="tspan15-8-4-71-2"
                style="stroke-width:0.264583"
-               x="170.56094"
-               y="175.41505">NEXT</tspan></text>
+               x="57.470219"
+               y="183.75636">NEXT</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-             x="171.03104"
-             y="184.68092"
-             id="text21"><tspan
+             x="61.100971"
+             y="191.06372"
+             id="text21-0"><tspan
                sodipodi:role="line"
-               id="tspan20-9"
+               id="tspan20-0"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4px;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-               x="171.03104"
-               y="184.68092">MENU</tspan></text>
+               x="61.100971"
+               y="191.06372">MENU</tspan></text>
         </g>
       </g>
     </g>
