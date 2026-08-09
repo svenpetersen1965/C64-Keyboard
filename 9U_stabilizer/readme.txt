@@ -1,0 +1,1 @@
+The 9U stabilizer wire is bent from 1.5mm spring steel. It is only required, if classic keycaps are used, since 9U screw-in stabilizers are not sold anywhere.
