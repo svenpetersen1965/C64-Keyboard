@@ -2,13 +2,13 @@
 A mechanical keyboard for the C64.
 This is a work in progress. I am sharing some files in advance. A full release will hopefully happen soon. 
 
-2026-08-09: Please don't feel encouraged to build this project already. I am slowly building up the three structures. The documentation is being written.
+2026-08-09: Please don't feel encouraged to build this project already. I am slowly building up the three structures. The documentation is being written. I will not spend time, discussing the project, before the documentation is fully released.
 
-This project has already been a long journey (17 months) and required quite a bit of budget, already.
+This project has already been a long journey (19 months) and required quite a bit of a budget, already. My guess, it was about 3000€. I have spent it, so you don't have to.
 
 <img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/pictures/3992_-_full_assembly_w_keycaps.JPG" width="600" alt="Keyboard with keycaps">
 
-It started end of January 2025. So, I was not satisfied with the shift lock circuit in Rev. 0. It worked perfectly from a lab power supply, but in some real C64, it had shift lock activated on power on. It seems to depend on the supply voltage. So I have made a rev. 1. Also, I have derived a version with hot swap sockets for the keyboard switches. The switches and their characteristics are a big thing and a matter of personal preference and of course, matter of the price. I have seen switches for 0.25€ and also for 0.95€ each. The stabilizer for the space bar and the RETURN key can also be crazy expensive. You can get both for 7€ or easily 25€.
+It started end of January 2025. So, I was not satisfied with the shift lock circuit in Rev. 0. It worked perfectly from a lab power supply, but in some real C64, it had shift lock activated on power on. It seems to depend on the supply voltage. So I have made a rev. 1 and a rev. 2. Also, I have derived a version with hot swap sockets for the keyboard switches. The switches and their characteristics are a big thing and a matter of personal preference and of course, matter of the price. I have seen switches for 0.25€ and also for 0.95€ each. The stabilizer for the space bar and the RETURN key can also be crazy expensive. You can get both for 7€ or easily 25€.
 
 The PBT blank key caps are about 0,21€ each, the space bar is 1.25€.
 Putting the legend on the blank keycaps is still a thing. I have tried laser engraving and dye sub. Probably nobody will spend the money on a laser engraver (1400€ for a fiber laser engraver).
