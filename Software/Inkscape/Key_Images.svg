@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="Key_Images.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3619663"
+     inkscape:cx="375.55995"
+     inkscape:cy="113.43893"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       inkscape:export-filename="..\Pictures\PREV-key.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         id="rect18-67-8"
+         style="fill:#ffffff;stroke-width:0.2;stroke-linecap:round;paint-order:markers fill stroke;stroke:#000000;stroke-dasharray:none"
+         d="m 59.028434,77.005631 h 9.162294 c 0.827595,0 1.493853,0.66626 1.493853,1.49385 v 9.1623 c 0,0.82759 -0.666258,1.49385 -1.493853,1.49385 h -9.162294 c -0.827595,0 -1.493853,-0.66626 -1.493853,-1.49385 v -9.1623 c 0,-0.82759 0.666258,-1.49385 1.493853,-1.49385 z" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.4228px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Medium';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="60.876316"
+         y="79.954742"
+         id="text15-9-00-7"
+         transform="scale(0.97937773,1.0210565)"><tspan
+           sodipodi:role="line"
+           id="tspan15-8-4-7"
+           style="stroke-width:0.264583"
+           x="60.876316"
+           y="79.954742">PREV</tspan></text>
+    </g>
+    <g
+       id="g2"
+       inkscape:export-filename="..\Pictures\NEXT-key.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-linecap:round;paint-order:markers fill stroke;fill-opacity:1;stroke-dasharray:none"
+         id="rect18-67-7"
+         width="12.15"
+         height="12.15"
+         x="71.357246"
+         y="77.00563"
+         rx="1.4938525"
+         ry="1.4938525" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.4228px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Medium';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="74.989563"
+         y="79.808807"
+         id="text15-9-00"
+         transform="scale(0.97937773,1.0210565)"><tspan
+           sodipodi:role="line"
+           id="tspan15-8-4"
+           style="stroke-width:0.264583"
+           x="74.989563"
+           y="79.808807">NEXT</tspan></text>
+    </g>
+    <g
+       id="g3"
+       inkscape:export-filename="..\Pictures\FREEZE-key.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         id="rect18-67-8-8"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-linecap:round;paint-order:markers fill stroke;stroke-dasharray:none"
+         d="m 86.673764,77.00563 h 9.16229 c 0.8276,0 1.49386,0.66626 1.49386,1.49385 v 9.1623 c 0,0.82759 -0.66626,1.49385 -1.49386,1.49385 h -9.16229 c -0.8276,0 -1.49385,-0.66626 -1.49385,-1.49385 v -9.1623 c 0,-0.82759 0.66625,-1.49385 1.49385,-1.49385 z" />
+      <g
+         id="g132"
+         transform="translate(30.164925,-105.9548)">
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.4228px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Medium';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="57.504448"
+           y="183.75636"
+           id="text15-9-00-7-2"
+           transform="scale(0.97937773,1.0210565)"><tspan
+             sodipodi:role="line"
+             id="tspan15-8-4-7-4"
+             style="stroke-width:0.264583"
+             x="57.504448"
+             y="183.75636">PREV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="68.667839"
+           y="168.25691"
+           id="text4"
+           transform="scale(0.88041313,1.1358304)"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             x="68.667839"
+             y="168.25691">FREEZE</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4"
+       inkscape:export-filename="..\Pictures\MENU-key.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-linecap:round;paint-order:markers fill stroke;stroke-dasharray:none"
+         id="rect18-67-7-5"
+         width="12.15"
+         height="12.15"
+         x="99.002579"
+         y="77.00563"
+         rx="1.4938525"
+         ry="1.4938525" />
+      <g
+         id="g147"
+         transform="translate(43.987597,-105.9548)">
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.4228px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Medium';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="57.470219"
+           y="183.75636"
+           id="text15-9-00-1"
+           transform="scale(0.97937773,1.0210565)"><tspan
+             sodipodi:role="line"
+             id="tspan15-8-4-71"
+             style="stroke-width:0.264583"
+             x="57.470219"
+             y="183.75636">NEXT</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="61.100971"
+           y="191.06372"
+           id="text21"><tspan
+             sodipodi:role="line"
+             id="tspan20"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.4px;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             x="61.100971"
+             y="191.06372">MENU</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g8"
+       transform="translate(121.61032,0.90181732)"
+       inkscape:export-filename="..\Pictures\f1-key.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect21-8-9"
+         width="21.700001"
+         height="12.2"
+         x="30.497494"
+         y="31.093315"
+         rx="1.5"
+         ry="1.5" />
+      <g
+         id="g138"
+         transform="translate(-231.465,-43.851409)">
+        <g
+           id="g16-0"
+           transform="translate(-1.236979,2.3001629)">
+          <path
+             style="font-weight:bold;font-size:4.16901px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.03;stroke-dasharray:none"
+             d="m 264.96778,78.157978 v -2.226227 h -0.21364 v -0.334566 h 0.21364 c 0.0145,-0.202701 0.0459,-0.360358 0.0944,-0.47297 0.0665,-0.156155 0.15242,-0.269517 0.25766,-0.340088 0.10644,-0.07207 0.26367,-0.108426 0.38109,-0.08618 l 0.0926,0.01754 -0.0175,0.358045 c -0.0956,0.003 -0.14188,0.02299 -0.17696,0.03951 -0.0339,0.01502 -0.11515,0.10932 -0.13568,0.151353 -0.0205,0.04204 -0.0522,0.239692 -0.0571,0.332787 h 0.40981 v 0.334566 h -0.35281 v 2.226227 z"
+             id="text7"
+             aria-label="f"
+             sodipodi:nodetypes="cccccccscccscccccc" />
+          <path
+             d="m 267.84479,78.157982 v -2.985171 l -0.548,0.0085 v -0.462133 l 1.10374,-0.0085 v 3.447304 z"
+             id="text16"
+             style="font-weight:bold;font-size:4.35743px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.03"
+             aria-label="1"
+             sodipodi:nodetypes="ccccccc" />
+        </g>
+        <g
+           id="g17-2"
+           transform="translate(1.3531161,0.39557941)">
+          <path
+             style="font-weight:bold;font-size:4.16901px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.03;stroke-dasharray:none"
+             d="m 276.76466,84.945126 v -2.226227 h -0.21364 v -0.334566 h 0.21364 c 0.0145,-0.202701 0.0459,-0.360358 0.0944,-0.47297 0.0665,-0.156155 0.15242,-0.269517 0.25766,-0.340088 0.10644,-0.07207 0.26367,-0.108426 0.38109,-0.08618 l 0.0926,0.01754 -0.0175,0.358045 c -0.0956,0.003 -0.14188,0.02299 -0.17696,0.03951 -0.0339,0.01502 -0.11515,0.10932 -0.13568,0.151353 -0.0205,0.04204 -0.0522,0.239692 -0.0571,0.332787 h 0.40981 v 0.334566 h -0.35281 v 2.226227 z"
+             id="text7-2"
+             aria-label="f"
+             sodipodi:nodetypes="cccccccscccscccccc" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:4.42347px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="287.36755"
+             y="82.34182"
+             id="text17-4"
+             transform="scale(0.96935305,1.0316159)"><tspan
+               sodipodi:role="line"
+               id="tspan16"
+               style="stroke-width:0.264583"
+               x="287.36755"
+               y="82.34182">2</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9"
+       transform="translate(121.61032,0.90181732)"
+       inkscape:export-filename="..\Pictures\f3-key.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect21-2"
+         width="21.700001"
+         height="12.2"
+         x="30.497494"
+         y="46.063484"
+         rx="1.5"
+         ry="1.5" />
+      <g
+         id="g140"
+         transform="translate(-231.465,-43.851409)">
+        <g
+           id="g19"
+           transform="translate(-0.909069,1.8869692)">
+          <path
+             style="font-weight:bold;font-size:4.16901px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.03;stroke-dasharray:none"
+             d="m 264.63987,93.615031 v -2.226227 h -0.21364 v -0.334566 h 0.21364 c 0.0145,-0.202701 0.0459,-0.360358 0.0944,-0.47297 0.0665,-0.156155 0.15242,-0.269517 0.25766,-0.340088 0.10644,-0.07207 0.26367,-0.108426 0.38109,-0.08618 l 0.0926,0.01754 -0.0175,0.358045 c -0.0956,0.003 -0.14188,0.02299 -0.17696,0.03951 -0.0339,0.01502 -0.11515,0.10932 -0.13568,0.151353 -0.0205,0.04204 -0.0522,0.239692 -0.0571,0.332787 h 0.40981 v 0.334566 h -0.35281 v 2.226227 z"
+             id="text7-4"
+             aria-label="f"
+             sodipodi:nodetypes="cccccccscccscccccc" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:4.48878px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="265.5741"
+             y="93.722145"
+             id="text19-8"
+             transform="scale(1.00187,0.9981335)"><tspan
+               sodipodi:role="line"
+               id="tspan17-2"
+               style="stroke-width:0.264583"
+               x="265.5741"
+               y="93.722145">3</tspan></text>
+        </g>
+        <g
+           id="g20-9"
+           transform="translate(1.5081049,-0.10734018)">
+          <path
+             style="font-weight:bold;font-size:4.16901px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.03;stroke-dasharray:none"
+             d="m 276.52484,100.41821 v -2.226231 h -0.21364 v -0.334566 h 0.21364 c 0.0145,-0.202701 0.0459,-0.360358 0.0944,-0.47297 0.0665,-0.156155 0.15242,-0.269517 0.25766,-0.340088 0.10644,-0.07207 0.26367,-0.108426 0.38109,-0.08618 l 0.0926,0.01754 -0.0175,0.358045 c -0.0956,0.003 -0.14188,0.02299 -0.17696,0.03951 -0.0339,0.01502 -0.11515,0.10932 -0.13568,0.151353 -0.0205,0.04204 -0.0522,0.239692 -0.0571,0.332787 h 0.40981 v 0.334566 h -0.35281 v 2.226234 z"
+             id="text7-3"
+             aria-label="f"
+             sodipodi:nodetypes="cccccccscccscccccc" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:4.68659px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="277.36975"
+             y="100.67809"
+             id="text20"
+             transform="scale(1.0025879,0.99741875)"><tspan
+               sodipodi:role="line"
+               id="tspan19"
+               style="stroke-width:0.264583"
+               x="277.36975"
+               y="100.67809">4</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g10"
+       transform="translate(121.61032,0.90181732)"
+       inkscape:export-filename="..\Pictures\f5-key.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect21-88"
+         width="21.700001"
+         height="12.2"
+         x="30.497494"
+         y="61.083641"
+         rx="1.5"
+         ry="1.5" />
+      <g
+         id="g142"
+         transform="translate(-231.465,-43.851409)">
+        <g
+           id="g25-8"
+           transform="translate(-0.685829,1.2222914)">
+          <path
+             style="font-weight:bold;font-size:4.16901px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.03;stroke-dasharray:none"
+             d="m 264.41663,109.29987 v -2.22623 h -0.21364 v -0.33457 h 0.21364 c 0.0145,-0.2027 0.0459,-0.36035 0.0944,-0.47297 0.0665,-0.15615 0.15242,-0.26951 0.25766,-0.34008 0.10644,-0.0721 0.26367,-0.10843 0.38109,-0.0862 l 0.0926,0.0175 -0.0175,0.35804 c -0.0956,0.003 -0.14188,0.023 -0.17696,0.0395 -0.0339,0.015 -0.11515,0.10932 -0.13568,0.15135 -0.0205,0.042 -0.0522,0.2397 -0.0571,0.33279 h 0.40981 v 0.33457 h -0.35281 v 2.22622 z"
+             id="text7-1"
+             aria-label="f"
+             sodipodi:nodetypes="cccccccscccscccccc" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:4.71114px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264584"
+             x="260.30301"
+             y="111.70301"
+             id="text25"
+             transform="scale(1.0226391,0.97786207)"><tspan
+               sodipodi:role="line"
+               id="tspan25"
+               style="stroke-width:0.264584"
+               x="260.30301"
+               y="111.70301">5</tspan></text>
+        </g>
+        <g
+           id="g28-4"
+           transform="translate(1.5399598,-0.52552898)">
+          <path
+             style="font-weight:bold;font-size:4.16901px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.03;stroke-dasharray:none"
+             d="m 276.55439,115.85657 v -2.22623 h -0.21364 v -0.33457 h 0.21364 c 0.0145,-0.2027 0.0459,-0.36035 0.0944,-0.47297 0.0665,-0.15615 0.15242,-0.26951 0.25766,-0.34008 0.10644,-0.0721 0.26367,-0.10843 0.38109,-0.0862 l 0.0926,0.0175 -0.0175,0.35804 c -0.0956,0.003 -0.14188,0.023 -0.17696,0.0395 -0.0339,0.015 -0.11515,0.10932 -0.13568,0.15135 -0.0205,0.042 -0.0522,0.2397 -0.0571,0.33279 h 0.40981 v 0.33457 h -0.35281 v 2.22622 z"
+             id="text7-42"
+             aria-label="f"
+             sodipodi:nodetypes="cccccccscccscccccc" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:4.60347px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="279.07693"
+             y="115.40558"
+             id="text27"
+             transform="scale(0.99670877,1.0033021)"><tspan
+               sodipodi:role="line"
+               id="tspan27"
+               style="stroke-width:0.264583"
+               x="279.07693"
+               y="115.40558">6</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g11"
+       transform="translate(121.61032,0.90181732)"
+       inkscape:export-filename="..\Pictures\f7-key.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect21-0"
+         width="21.700001"
+         height="12.2"
+         x="30.497494"
+         y="76.103813"
+         rx="1.5"
+         ry="1.5" />
+      <g
+         id="g144"
+         transform="translate(-231.465,-43.851409)">
+        <g
+           id="g30-6"
+           transform="translate(-0.412969,1.145365)">
+          <path
+             style="font-weight:bold;font-size:4.16901px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.03;stroke-dasharray:none"
+             d="m 264.14377,124.32324 v -2.22623 h -0.21364 v -0.33456 h 0.21364 c 0.0145,-0.2027 0.0459,-0.36036 0.0944,-0.47297 0.0665,-0.15616 0.15242,-0.26952 0.25766,-0.34009 0.10644,-0.0721 0.26367,-0.10843 0.38109,-0.0862 l 0.0926,0.0175 -0.0175,0.35804 c -0.0956,0.003 -0.14188,0.023 -0.17696,0.0395 -0.0339,0.015 -0.11515,0.10932 -0.13568,0.15136 -0.0205,0.042 -0.0522,0.23969 -0.0571,0.33278 h 0.40981 v 0.33457 h -0.35281 v 2.22623 z"
+             id="text7-31"
+             aria-label="f"
+             sodipodi:nodetypes="cccccccscccscccccc" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:4.68509px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="268.40012"
+             y="123.20809"
+             id="text28"
+             transform="scale(0.99103013,1.0090511)"><tspan
+               sodipodi:role="line"
+               id="tspan28"
+               style="stroke-width:0.264583"
+               x="268.40012"
+               y="123.20809">7</tspan></text>
+        </g>
+        <g
+           id="g37-1"
+           transform="translate(1.8620015,-1.1736659)">
+          <path
+             style="font-weight:bold;font-size:4.16901px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.03;stroke-dasharray:none"
+             d="m 276.17405,131.52486 v -2.22623 h -0.21364 v -0.33456 h 0.21364 c 0.0145,-0.2027 0.0459,-0.36036 0.0944,-0.47297 0.0665,-0.15616 0.15242,-0.26952 0.25766,-0.34009 0.10644,-0.0721 0.26367,-0.10842 0.38109,-0.0862 l 0.0926,0.0175 -0.0175,0.35805 c -0.0956,0.003 -0.14188,0.023 -0.17696,0.0395 -0.0339,0.015 -0.11515,0.10932 -0.13568,0.15135 -0.0205,0.042 -0.0522,0.23969 -0.0571,0.33279 h 0.40981 v 0.33456 h -0.35281 v 2.22623 z"
+             id="text7-5"
+             aria-label="f"
+             sodipodi:nodetypes="cccccccscccscccccc" />
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:4.51685px;line-height:1;font-family:'AvantGarde CE';-inkscape-font-specification:'AvantGarde CE, Bold';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+             x="278.94299"
+             y="130.97455"
+             id="text30"
+             transform="scale(0.99633581,1.0036777)"><tspan
+               sodipodi:role="line"
+               id="tspan30"
+               style="stroke-width:0.264583"
+               x="278.94299"
+               y="130.97455">8</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g7"
+       inkscape:export-filename="..\Pictures\RESTORE-key.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-linecap:round;paint-order:markers fill stroke;stroke-dasharray:none"
+         id="rect21-1-1-8-27"
+         width="21.700001"
+         height="12.2"
+         x="126.64791"
+         y="77.00563"
+         rx="1.5"
+         ry="1.5" />
+      <g
+         id="g6">
+        <text
+           xml:space="preserve"
+           style="font-size:3.36585px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="127.67108"
+           y="81.565445"
+           id="text1-1-8-9"
+           transform="scale(1.0021856,0.99781916)"><tspan
+             sodipodi:role="line"
+             id="tspan1-5-2-5"
+             style="stroke-width:0.264583"
+             x="127.67108"
+             y="81.565445">RESTORE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.36585px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="137.98389"
+           y="87.499817"
+           id="text1-1-8-5-4"
+           transform="scale(1.0021856,0.99781916)"><tspan
+             sodipodi:role="line"
+             id="tspan1-5-2-7-3"
+             style="stroke-width:0.264583"
+             x="137.98389"
+             y="87.499817">RESET</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5"
+       inkscape:export-filename="..\Pictures\Clips-key.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;paint-order:markers fill stroke;fill-opacity:0;stroke-dasharray:none"
+         id="rect18-67-7-2"
+         width="12.15"
+         height="12.15"
+         x="112.82525"
+         y="77.005623"
+         rx="1.4938525"
+         ry="1.4938525" />
+      <g
+         id="g108"
+         transform="matrix(0.60274241,0,0,0.64608955,106.56641,-8.876901)"
+         style="stroke-width:1.60247">
+        <path
+           style="fill:#000000;stroke-width:0.423984"
+           d="m 19.452153,139.62459 h -1.759744 v 1.4433 h 3.163094 z"
+           id="path870" />
+        <path
+           style="fill:#000000;stroke-width:0.423984"
+           d="m 20.855238,137.88522 h -3.163094 v 1.44304 h 1.7399 z"
+           id="path868" />
+        <path
+           style="fill:#000000;stroke-width:0.423984"
+           d="m 17.593455,137.78627 v -1.85817 c -0.375444,-0.099 -0.632884,-0.13864 -1.008063,-0.13864 -1.957387,0 -3.677179,1.64121 -3.677179,3.67718 0,2.09576 1.739371,3.6576 3.696758,3.6576 0.355865,0 0.553509,-0.0397 0.988484,-0.15875 v -1.89759 c -0.43524,0.21722 -0.652198,0.27649 -1.008063,0.27649 -1.087437,0 -1.918229,-0.90911 -1.918229,-1.91744 0,-1.04748 0.810683,-1.93754 1.898121,-1.93754 0.375973,0 0.69215,0.0992 1.028171,0.29686 z"
+           id="path844" />
+      </g>
+    </g>
+  </g>
+</svg>
