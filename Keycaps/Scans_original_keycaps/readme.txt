@@ -1,0 +1,1 @@
+The key caps were scanned off a C64C keyboard. Then redrawn in Inksacpe and finally exported as PNG file for further processing/printing
