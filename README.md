@@ -8,8 +8,6 @@
 A mechanical keyboard for the C64.
 This is a work in progress. I am sharing some files in advance. A full release will hopefully happen soon. 
 
-2026-08-09: Please don't feel encouraged to build this project already. I am slowly building up the three structures. The documentation is being written. I will not spend time, discussing the project, before the documentation is fully released.
-
 This project has already been a long journey (19 months) and required quite a bit of a budget, already. My guess, it was about 3000€. I have spent it, so you don't have to.
 
 <p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/pictures/4637_-_C64%26USB_KBD.JPG" width="600" alt="C64-Keyboard and the USB-Keyboard version"></p>
@@ -17,16 +15,21 @@ This project has already been a long journey (19 months) and required quite a bi
 
 It started end of January 2025. So, I was not satisfied with the shift lock circuit in Rev. 0. It worked perfectly from a lab power supply, but in some real C64, it had shift lock activated on power on. It seems to depend on the supply voltage. So I have made a rev. 1 and a rev. 2. Also, I have derived a version with hot swap sockets for the keyboard switches. The switches and their characteristics are a big thing and a matter of personal preference and of course, matter of the price. I have seen switches for 0.25€ and also for 0.95€ each. The stabilizer for the space bar and the RETURN key can also be crazy expensive. You can get both for 7€ or easily 25€.
 
-The PBT blank key caps are about 0,21€ each, the space bar is 1.25€.
+The PBT blank key caps are about 0.24€ each, the space bar is 1.25€.
 Putting the legend on the blank keycaps is still a thing. I have tried laser engraving and dye sub. Probably nobody will spend the money on a laser engraver (1400€ for a fiber laser engraver).
 Dye sublimation is pretty ok, but a bit of work. The legend is printed mirrored on a special paper with dye sub ink. One can cut out the legends and heat press them onto the key caps. That does not require crazy equipment, if you buy a sheet with the legends already.
 
 Laser engraving is nice. The legends only work on light key caps and the legends are not perfectly black.
 Both methods produce legends, that are mechanically stable.
-Water decals with a final clear coat is the most simple method, but maybe the legends are the least resilient.
-Next is uv printing. That would require an expensive UV printer, the legends can even be white on black keycaps, which neither laser engraving nor dye sublimation can do. The legends don’t rub off, easily. I think, I have found somebody, who could help with printing key caps.
+
+UV decals will be available to purchase. The decals are durable and the positioning is no witchcraft.
+
+Next is  UV printing. That would require an expensive UV printer, the legends can even be white on black keycaps, which neither laser engraving nor dye sublimation can do. The legends don’t rub off, easily. I have tested one manufacturer and will soon be testing a second one. 
 
 Original keycaps with little adapters are also possible. The 1.5U (wide) key caps like the function keys are different from the modern key caps, which have the switch connection in the middle. The original 1.5U key caps have two switch connections and use the right (the RESTORE key the left) one of them. Those keys have two switch positions.
+
+Dye sublimation is under evaluation. It looks pretty good, already. It is probably the most time consuming method, but it is not very hard to do, it does not require really expensive tools (in case you get a sheet of transfer paper printed, or you own a dye sublimation printer). The keycaps don't wear off easily, the contrast of dark print on light keycaps is pretty good, even multi color keycaps are possible.  
+
 The plastic frame is 3D printed in two parts. It is screwed to the PCB and is pretty rigid. They keyboard does not bend or wrap while typing.
 
 The original space bar is 9U wide. I did not find that available anywhere. So I decided for a 7U space bar and two additional 1U switches (1U+7U+1U = 9U).
