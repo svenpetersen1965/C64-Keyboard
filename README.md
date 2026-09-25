@@ -6,7 +6,16 @@
   
 # C64-Keyboard
 A mechanical keyboard for the C64.
-This is a work in progress. I am sharing some files in advance. A full release will hopefully happen soon. 
+*	<b>Reset</b>: The keyboard can generate RESET and EXROM RESET signals.
+*	<b>Kernal switching</b>: The keyboard can switch between multiple Kernals on an EPROM Kernal adapter.
+*	<b>OLED display</b>: An I²C OLED display can be connected to the keyboard.
+*	<b>Piezo buzzer</b>: The keyboard includes a piezo buzzer for signaling.
+*	<b>USB keyboard</b>: The keyboard can be operated as a USB keyboard for VICE and BMC64.
+*	<b>RGB lighting</b>: The keyboard can produce a light show using a WS2812B RGB LED strip.
+*	<b>Power LED</b>: The C64's power LED can be connected to the keyboard on either the left or right side and can be made to blink.
+*	<b>Additional buttons</b>: Two additional buttons beside the shorter space bar provide additional control functions.
+
+This is a work in progress. I am sharing some files in advance. A full release will happen soon. 
 
 This project has already been a long journey (19 months) and required quite a bit of a budget, already. My guess, it was about 3000€. I have spent it, so you don't have to.
 
