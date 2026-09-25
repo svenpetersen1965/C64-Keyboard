@@ -1,4 +1,4 @@
-#Status
+# Status
 * Hardware tested: done
 * Software tested: done
 * Upload all design files: done
