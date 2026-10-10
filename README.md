@@ -40,4 +40,4 @@ I'd like to draw your attention to the following important sections of the docum
 * 3D printables: The mounting frame and the USB keyboard case
 *	Which Cables Do I Need?
 *	How To: Keycaps: A short guide to making your own keycaps.
-*	Software documentation: How to use and configure the firmware.
+*	Software documentation: How to use, configure and program the firmware.
