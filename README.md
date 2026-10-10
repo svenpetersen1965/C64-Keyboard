@@ -1,4 +1,4 @@
-# Status
+ö# Status
 * Hardware tested: done
 * Software tested: done
 * Upload all design files: done
@@ -37,6 +37,7 @@ However, you should decide which features you need before ordering the component
 I'd like to draw your attention to the following important sections of the documentation:
 *	Hardware module description: Versions with and without hot-swap sockets for the keyboard switches.
 *	C64 Keyboard Connector PCB: Module description.
+* 3D printables: The mounting frame and the USB keyboard case
 *	Which Cables Do I Need?
 *	How To: Keycaps: A short guide to making your own keycaps.
 *	Software documentation: How to use and configure the firmware.
