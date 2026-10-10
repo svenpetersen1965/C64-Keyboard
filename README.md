@@ -17,41 +17,26 @@ A mechanical keyboard for the C64.
 
 This is a work in progress. I am sharing some files in advance. A full release will happen soon. 
 
-This project has already been a long journey (19 months) and required quite a bit of a budget, already. My guess, it was about 3000€. I have spent it, so you don't have to.
+After about 21 months of work, the day has finally come: I’m releasing my Commodore C64 keyboard project on GitHub!
+
+I haven’t been working on it full-time, of course, but I’ve still put several person-months of work into it (most of it for documentation). And I’ve certainly spent a few thousand euros along the way (so you don't have to).
 
 <p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/pictures/4637_-_C64%26USB_KBD.JPG" width="600" alt="C64-Keyboard and the USB-Keyboard version"></p>
 <p align="center">The C64 mechanic Keyboard and the USB-Keyboard version for VICE and BMC64</p>
 
-It started end of January 2025. So, I was not satisfied with the shift lock circuit in Rev. 0. It worked perfectly from a lab power supply, but in some real C64, it had shift lock activated on power on. It seems to depend on the supply voltage. So I have made a rev. 1 and a rev. 2. Also, I have derived a version with hot swap sockets for the keyboard switches. The switches and their characteristics are a big thing and a matter of personal preference and of course, matter of the price. I have seen switches for 0.25€ and also for 0.95€ each. The stabilizer for the space bar and the RETURN key can also be crazy expensive. You can get both for 7€ or easily 25€.
+My goal was to build a complete keyboard, including the keycaps, and figure out a way for others with some DIY skills to build one, too, without having to spend anywhere near as much money.
 
-The PBT blank key caps are about 0.24€ each, the space bar is 1.25€.
-Putting the legend on the blank keycaps is still a thing. I have tried laser engraving and dye sub. Probably nobody will spend the money on a laser engraver (1400€ for a fiber laser engraver).
-Dye sublimation is pretty ok, but a bit of work. The legend is printed mirrored on a special paper with dye sub ink. One can cut out the legends and heat press them onto the key caps. That does not require crazy equipment, if you buy a sheet with the legends already.
+Let me be clear, though: this isn’t meant to be a cheap replacement for an original C64 keyboard. It’s for people who use a C64, an Ultimate 64, or another C64-compatible system and enjoy mechanical keyboards. If you’d like to build your own keyboard and add some extra functionality to your setup, this project might be just what you’re looking for.
 
-Laser engraving is nice. The legends only work on light key caps and the legends are not perfectly black.
-Both methods produce legends, that are mechanically stable.
+The documentation is around 80 pages long, but most of it consists of pictures, and you don't need to read every single page. I'd really appreciate it, though, if you took the time to understand the important parts. Otherwise, I might end up providing support for years to come, and I'd rather spend that time working on new projects!
 
-UV decals will be available to purchase. The decals are durable and the positioning is no witchcraft.
+The bill of materials (BOM) is quite flexible. You don't need all the components; you can populate only the parts required for your intended setup. I've designed the BOM to make this as straightforward as possible.
 
-Next is  UV printing. That would require an expensive UV printer, the legends can even be white on black keycaps, which neither laser engraving nor dye sublimation can do. The legends don’t rub off, easily. I have tested one manufacturer and will soon be testing a second one. 
+However, you should decide which features you need before ordering the components. Even if you fully populate the board, none of the unused circuits will interfere with the keyboard's normal operation.
 
-Original keycaps with little adapters are also possible. The 1.5U (wide) key caps like the function keys are different from the modern key caps, which have the switch connection in the middle. The original 1.5U key caps have two switch connections and use the right (the RESTORE key the left) one of them. Those keys have two switch positions.
-
-Dye sublimation is under evaluation. It looks pretty good, already. It is probably the most time consuming method, but it is not very hard to do, it does not require really expensive tools (in case you get a sheet of transfer paper printed, or you own a dye sublimation printer). The keycaps don't wear off easily, the contrast of dark print on light keycaps is pretty good, even multi color keycaps are possible.  
-
-The plastic frame is 3D printed in two parts. It is screwed to the PCB and is pretty rigid. They keyboard does not bend or wrap while typing.
-
-The original space bar is 9U wide. I did not find that available anywhere. So I decided for a 7U space bar and two additional 1U switches (1U+7U+1U = 9U).
-
-The two additional keys will do kernal switching together with the RESTORE key, you don’t want to switch kernals accidentally. The RESTORE key will also work as RESET, when it is held for 3 seconds or as EXROM RESET, when held for 5 seconds.
-
-I did not want to do a light show/LED strips in the beginning, but there were some GPIO pins left on the (Arduino) pro micro, so I finally changed my mind. A WS2812B type LED strip can be connected and it will do 10 different color/brightness effects.
-A piezo buzzer is on the PCB, an OLED display can be connected. A power LED can be connected to the PCB (left and right).
-
-For the Ultimate C64 or C64 Ultimate, the two additional switches can also act as Freeze and Menu (when pressed together with RESTORE). Holding RESTORE for 3 seconds will act as reset.
-
-It is also possible to let the keyboard act like a USB keyboard for VICE. It works with an English or German keyboard layout.
-There are SMD ICs, passives and transistors on board. I just could not prevent it on a keyboard.
-The keyboard cable is a ribbon cable with a small PCB at one side. That is easier and cheaper to produce, than a cable with crimp terminals.
-
-The micro controller on this keyboard is a pro micro and it can be programmed with the Arduino IDE and a usb cable.
+I'd like to draw your attention to the following important sections of the documentation:
+*	Hardware module description: Versions with and without hot-swap sockets for the keyboard switches.
+*	C64 Keyboard Connector PCB: Module description.
+*	Which Cables Do I Need?
+*	How To: Keycaps: A short guide to making your own keycaps.
+*	Software documentation: How to use and configure the firmware.
