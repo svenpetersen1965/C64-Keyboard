@@ -56,3 +56,4 @@ You can easily customize the firmware to suit your needs by enabling or disablin
 
 The only real downside of this project is that you need to solder SMD components (0805, SOT-23, SO-8, SO-14 and SO-16, with a 1.27 mm pin pitch). However, using the hot plate I mentioned earlier for making dye-sublimation keycaps actually makes this quite enjoyable. You can find tutorials on hot-plate soldering on YouTube.
 
+<b>Note</b>: You might like the <a href="https://github.com/svenpetersen1965/C64-Keycap-Handling-Tray/">C64 Keycap Handling Tray</a>, which is a by-product of this project. It is a 3D printable tray, which allows you to keep the oversight of a complete set of C64 keycaps (original and DIY).
