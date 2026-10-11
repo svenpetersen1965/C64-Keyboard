@@ -1,9 +1,5 @@
-ö# Status
-* Hardware tested: done
-* Software tested: done
-* Upload all design files: done
-* Documentaion: completed, except "Howto: Keycaps"
-  
+# Status
+Realease on the go. 2026-10-11  
 # C64-Keyboard
 A mechanical keyboard for the C64.
 *	<b>Reset</b>: The keyboard can generate RESET and EXROM RESET signals.
@@ -35,9 +31,11 @@ The bill of materials (BOM) is quite flexible. You don't need all the components
 However, you should decide which features you need before ordering the components. Even if you fully populate the board, none of the unused circuits will interfere with the keyboard's normal operation.
 
 I'd like to draw your attention to the following important sections of the documentation:
-*	Hardware module description: Versions with and without hot-swap sockets for the keyboard switches.
-*	C64 Keyboard Connector PCB: Module description.
-* 3D printables: The mounting frame and the USB keyboard case
-*	Which Cables Do I Need?
-*	How To: Keycaps: A short guide to making your own keycaps.
-*	Software documentation: How to use, configure and program the firmware.
+*	<b>Hardware description</b>: <a href="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/C64%20Keyboard%20Standard%20Version/Rev.%202/pdf/C64_Keyb_v2.pdf">Versions without hot-swap sockets</a> for the keyboard switches.
+*	<b>Hardware description</b>: <a href="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/C64%20Keyboard%20with%20Hot%20Swap%20Sockets/Rev.%202/pdf/C64_Keyb_HSw_v2.pdf">Versions with hot-swap sockets</a> for the keyboard switches.
+*	<b>C64 Keyboard Connector PCB</b>: <a href="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/C64%20Keyboard%20connector%20PCB/Rev.%200/pdf/C64KBConPCB_v0.pdf">Module description</a>. The adapter for the ribbon cable (not required for USB keyboards).
+* <b>3D printables</b>: <a href="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/3D%20printables/pdf/C64KB_3D_printables_v1.pdf">Module Description</a>. The mounting frame and the USB keyboard case.
+*	<b>Cables</b>: <a href="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Cables/pdf/Which%20cables%20do%20I%20need.pdf">Which Cables Do I Need?</a>
+*	<b>Cables</b>: <a href="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Cables/pdf/Cable_making.pdf">Cable Making</a>
+*	<b>A short guide to making your own keycaps</b>: <a href="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pdf/How_to_keycaps.pdf">How To: Keycaps</a>.
+*	<b>Software documentation</b>: <a href="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Software/pdf/C64KB_SW_v0.00.pdf">How to use, configure and program the firmware</a>.
