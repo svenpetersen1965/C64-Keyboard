@@ -1,5 +1,5 @@
 # Status
-Realease on the go. 2026-10-11  
+Realeased: 2026-10-11  
 # C64-Keyboard
 A mechanical keyboard for the C64.
 *	<b>Reset</b>: The keyboard can generate RESET and EXROM RESET signals.
@@ -10,8 +10,6 @@ A mechanical keyboard for the C64.
 *	<b>RGB lighting</b>: The keyboard can produce a light show using a WS2812B RGB LED strip.
 *	<b>Power LED</b>: The C64's power LED can be connected to the keyboard on either the left or right side and can be made to blink.
 *	<b>Additional buttons</b>: Two additional buttons beside the shorter space bar provide additional control functions.
-
-This is a work in progress. I am sharing some files in advance. A full release will happen soon. 
 
 After about 21 months of work, the day has finally come: I’m releasing my Commodore C64 keyboard project on GitHub!
 
