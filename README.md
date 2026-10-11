@@ -10,6 +10,7 @@ A mechanical keyboard for the C64.
 *	<b>RGB lighting</b>: The keyboard can produce a light show using a WS2812B RGB LED strip.
 *	<b>Power LED</b>: The C64's power LED can be connected to the keyboard on either the left or right side and can be made to blink.
 *	<b>Additional buttons</b>: Two additional buttons beside the shorter space bar provide additional control functions.
+*   <b>Ultimate 64 elite II button</b>: Control MENU/FREEZE/RESET with the keyboard. No extra buttons need to be installed
 
 After about 21 months of work, the day has finally come: I’m releasing my Commodore C64 keyboard project on GitHub!
 
