@@ -39,3 +39,22 @@ I'd like to draw your attention to the following important sections of the docum
 *	<b>Cables</b>: <a href="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Cables/pdf/Cable_making.pdf">Cable Making</a>
 *	<b>A short guide to making your own keycaps</b>: <a href="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pdf/How_to_keycaps.pdf">How To: Keycaps</a>.
 *	<b>Software documentation</b>: <a href="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Software/pdf/C64KB_SW_v0.00.pdf">How to use, configure and program the firmware</a>.
+
+The cost of building this project depends on your needs. Buying a fiber laser or a UV printer just for this project probably doesn't make much sense. A dye-sublimation printer is considerably cheaper, but even that isn't essential if you can get hold of pre-printed dye-sublimation transfer paper. The keycaps you can make with this method can look really impressive!
+
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/6108_-_DyeSub_keyboard_C%3D.JPG" width="600" alt="C64 Keyboard with Dye Sub Keycaps"></p>
+<p align="center">C64 Keyboard with Dye Sub Keycaps</p>
+
+The hot plate required for dye sublimation costs around €27 (as of October 2026). You may already have most of the other tools you need.
+
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/5320_-_DyeSub_Work_bench.JPG" width="600" alt="Work bench for Dye Sub Keycaps"></p>
+<p align="center">Work bench for Dye Sub Keycaps</p>
+
+I've also covered several other ways to add legends to the keycaps, including fiber laser engraving, UV decals and direct UV printing, as well as using original C64 keycaps or Blingboard64 keycaps.
+
+Programming the microcontroller (a Pro Micro) requires nothing more than a USB cable and the free Arduino IDE.
+
+You can easily customize the firmware to suit your needs by enabling or disabling compiler options before uploading it. Simply uncomment or comment out the relevant lines using //.
+
+The only real downside of this project is that you need to solder SMD components (0805, SOT-23, SO-8, SO-14 and SO-16, with a 1.27 mm pin pitch). However, using the hot plate I mentioned earlier for making dye-sublimation keycaps actually makes this quite enjoyable. You can find tutorials on hot-plate soldering on YouTube.
+
