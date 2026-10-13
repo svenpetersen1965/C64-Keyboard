@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="12.150001mm"
+   height="12.15mm"
+   viewBox="0 0 12.150001 12.15"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="DSA_keycaps.svg"
+   inkscape:export-filename="single_keycaps_svg\SW02_2.svg"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.5349191"
+     inkscape:cx="927.0847"
+     inkscape:cy="688.63564"
+     inkscape:window-width="2365"
+     inkscape:window-height="1224"
+     inkscape:window-x="2654"
+     inkscape:window-y="85"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"><inkscape:page
+       x="4.8664381e-15"
+       y="4.7741195e-15"
+       width="12.150002"
+       height="12.150001"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
+     id="defs1" /><g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-200.46721,-74.449481)"><path
+       id="rect395"
+       style="fill:none;stroke:#000000;stroke-width:0.0499998;stroke-linecap:round;paint-order:markers fill stroke"
+       d="m 9.223,36.425713 h 278.41682 c 0.82767,0 1.494,0.666324 1.494,1.494 v 85.234997 c 0,0.82768 -0.66633,1.494 -1.494,1.494 H 9.223 c -0.8276759,0 -1.4939999,-0.66632 -1.4939999,-1.494 V 37.919713 c 0,-0.827676 0.666324,-1.494 1.4939999,-1.494 z" /><g
+       id="g82"
+       inkscape:export-filename="SW47_equals.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="translate(-0.17237608,-30.510566)"><path
+         id="rect18-303"
+         style="fill:#ffffff;stroke-width:0.0499999;stroke-linecap:round;paint-order:markers fill stroke"
+         d="m 202.13346,104.96005 h 9.16229 c 0.82759,0 1.49385,0.66626 1.49385,1.49385 v 9.1623 c 0,0.82759 -0.66626,1.49385 -1.49385,1.49385 h -9.16229 c -0.8276,0 -1.49386,-0.66626 -1.49386,-1.49385 v -9.1623 c 0,-0.82759 0.66626,-1.49385 1.49386,-1.49385 z" /><path
+         style="font-size:6.87446px;line-height:1;font-family:'AvantGarde LT Medium';-inkscape-font-specification:'AvantGarde LT Medium, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         d="m 210.53718,107.6689 h -3.46473 v -0.71494 h 3.46473 z m 0,-1.49863 h -3.46473 v -0.71494 h 3.46473 z"
+         id="text8-1-6-5-7"
+         transform="scale(0.98364774,1.0166241)"
+         aria-label="=" /></g></g></svg>
