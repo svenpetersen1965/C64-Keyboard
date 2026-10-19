@@ -68,3 +68,4 @@ The price for the 1U keycaps also vary a lot. I have calculated price of 0,24€
 
 The stabilizers are not cheap components, either. I have assumed 7,79€ for the 7U stabilizer and 6,69€ for the 2U one. I have also used  sets of 1x7U and 4x2U screw mounted stabilizers for 10,99€. Probably, you get that for even less (7€?).
 
+The BOM value of the Connector PCB plus ribbon cable is 3.60€, which is already included in the above calculations for the keyboard.
