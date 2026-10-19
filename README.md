@@ -60,12 +60,12 @@ The only real downside of this project is that you need to solder SMD components
 <b>Note</b>: You might like the <a href="https://github.com/svenpetersen1965/C64-Keycap-Handling-Tray/">C64 Keycap Handling Tray</a>, which is a by-product of this project. It is a 3D printable tray, which allows you to keep the oversight of a complete set of C64 keycaps (original and DIY).
 
 # Calculation (as of Oct. 19th, 2025)
-The BOM value of the standard keyboard is 98,61€ and 106,99€ of the hot swap keyboard. This does not include shipping and tariffs. Also, the printing of the keycap legends is not included. There are both modules (pro micro and PCF8575) included. The optional LED strip and OLED display are not part of the calculation. 
+The BOM value of the standard keyboard is 98.61€ and 106.99€ of the hot swap keyboard. This does not include shipping and tariffs. Also, the printing of the keycap legends is not included. There are both modules (pro micro and PCF8575) included. The optional LED strip and OLED display are not part of the calculation. 
 
-The price for the switches can vary a lot. I have used the value for Cherry Hyperglide black switches (0.40€) I have already tried switches for 0,23€ each (Gateron g pro milk yellow), which also worked. It really depends on your taste.
+The price for the switches can vary a lot. I have used the value for Cherry Hyperglide black switches (0.40€) I have already tried switches for 0.23€ each (Gateron g pro milk yellow), which also worked. It really depends on your taste.
 
-The price for the 1U keycaps also vary a lot. I have calculated price of 0,24€, which is the normal price. I have already bought some for 0,13€, too. 
+The price for the 1U keycaps also vary a lot. I have calculated price of 0.24€, which is the normal price. I have already bought some for 0.13€, too. 
 
-The stabilizers are not cheap components, either. I have assumed 7,79€ for the 7U stabilizer and 6,69€ for the 2U one. I have also used  sets of 1x7U and 4x2U screw mounted stabilizers for 10,99€. Probably, you get that for even less (7€?).
+The stabilizers are not cheap components, either. I have assumed 7.79€ for the 7U stabilizer and 6,69€ for the 2U one. I have also used  sets of 1x7U and 4x2U screw mounted stabilizers for 10.99€. Probably, you get that for even less (7€?).
 
 The BOM value of the Connector PCB plus ribbon cable is 3.60€, which is already included in the above calculations for the keyboard.
