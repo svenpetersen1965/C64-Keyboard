@@ -77,10 +77,14 @@ With the help by Patrick Horner, I could get some predefined keycap sets from Yu
 <b>White</b><br>
 https://yuzukeycaps.com/c/e836e2c1-563e-44b8-b55f-97ea0bed1701
 
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzukeycaps_C64set.jpg" width="600" alt="C64-Keyboard and the USB-Keyboard version"></p>
+
 <b>Black</b><br>
 https://yuzukeycaps.com/c/b337c357-358e-4f8e-a2ad-4e7c534ae4b8
-Yuzukeycaps black.jpg
+
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzukeycaps_black.jpg" width="600" alt="C64-Keyboard and the USB-Keyboard version"></p>
 
 <b>Brown/Orange</b><br>
 https://yuzukeycaps.com/c/34ce23c8-1dd4-418c-a640-15e38c08d5d0
-Yuzu brown orange.jpg
+
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzu_brown_orange.jpg" width="600" alt="C64-Keyboard and the USB-Keyboard version"></p>
