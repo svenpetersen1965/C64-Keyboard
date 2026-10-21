@@ -69,3 +69,18 @@ The price for the 1U keycaps also vary a lot. I have calculated price of 0.24€
 The stabilizers are not cheap components, either. I have assumed 7.79€ for the 7U stabilizer and 6,69€ for the 2U one. I have also used  sets of 1x7U and 4x2U screw mounted stabilizers for 10.99€. Probably, you get that for even less (7€?).
 
 The BOM value of the Connector PCB plus ribbon cable is 3.60€, which is already included in the above calculations for the keyboard.
+
+# Printed keycap sets by Yuzu
+
+With the help by Patrick Horner, I could get some predefined keycap sets from Yuzu:
+
+<b>White</b><br>
+https://yuzukeycaps.com/c/e836e2c1-563e-44b8-b55f-97ea0bed1701
+
+<b>Black</b><br>
+https://yuzukeycaps.com/c/b337c357-358e-4f8e-a2ad-4e7c534ae4b8
+Yuzukeycaps black.jpg
+
+<b>Brown/Orange</b><br>
+https://yuzukeycaps.com/c/34ce23c8-1dd4-418c-a640-15e38c08d5d0
+Yuzu brown orange.jpg
