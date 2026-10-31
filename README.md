@@ -74,22 +74,37 @@ The BOM value of the Connector PCB plus ribbon cable is 3.60€, which is alread
 
 With the help by Patrick Horner, I could get some predefined keycap sets from Yuzu:
 
-<b>White</b><br>
-https://yuzukeycaps.com/c/e836e2c1-563e-44b8-b55f-97ea0bed1701
+<b>All White</b><br>
+https://yuzukeycaps.com/c/16492bd8-0034-4fa0-9f88-b2e883e93d85
 
-<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzukeycaps_C64set.jpg" width="600" alt="C64 keycaps Yuzu white"></p>
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzukeycaps_all_white.jpg" width="600" alt="C64 keycaps Yuzu all white"></p>
 
-<b>Black</b><br>
-https://yuzukeycaps.com/c/b337c357-358e-4f8e-a2ad-4e7c534ae4b8
+<b>All Black</b><br>
+https://yuzukeycaps.com/c/e0255b8e-abf9-4e7c-8b1b-a88284a3ea94
 
-<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzukeycaps_black.jpg" width="600" alt="C64 keycaps Yuzu black"></p>
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzukeycaps_all_black.jpg" width="600" alt="C64 keycaps Yuzu black"></p>
 
 <b>Brown/Orange</b><br>
-https://yuzukeycaps.com/c/34ce23c8-1dd4-418c-a640-15e38c08d5d0
+https://yuzukeycaps.com/c/d665ed74-f621-4a3c-bca7-08b1a41fafc0
 
-<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzu_brown_orange.jpg" width="600" alt="C64 keycaps Yuzu brown/orange"></p>
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzu_brown_orange_2.jpg" width="600" alt="C64 keycaps Yuzu brown/orange"></p>
 
-<b>Purple haze</b><br>
-https://yuzukeycaps.com/c/87c3f328-9cdb-40c0-a2e5-fcc8e502678d
+<b>Purple Haze 2</b><br>
+https://yuzukeycaps.com/c/19eb1e2b-86ea-4545-a4c7-7d6084841e11
 
-<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzu_purple_haze.jpg" width="600" alt="C64 keycaps Yuzu purple haze"></p>
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzukeycaps_purple_haze_2.jpg" width="600" alt="C64 keycaps Yuzu purple haze"></p>
+
+<b>White/Blue</b><br>
+https://yuzukeycaps.com/c/15ede4f3-3a02-45ec-8442-b245ddb9eab5
+
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzukeycaps_white_blue.jpg" width="600" alt="C64 keycaps Yuzu white/blue"></p>
+
+<b>White/Grey</b><br>
+https://yuzukeycaps.com/c/128e829f-b237-4e82-8b0e-f7e783138823
+
+<p align="center"><img src="https://github.com/svenpetersen1965/C64-Keyboard/blob/main/Keycaps/pictures/yuzukeycaps_white_grey.jpg" width="600" alt="C64 keycaps Yuzu white/blue"></p>
+
+<b>Note</b><br>
+I do not get any funds from Yuzu for linking their page and mentioning their keycaps. 
+31.10.2026:<br>
+The club PETSCII (X-Keycap) was previously not perfect due to the interpretation of my SVG file for the X legend. I have noticed it from my own order and have corrected it. The keycap sets were corrected and the new URL is provided.
