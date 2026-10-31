@@ -107,4 +107,4 @@ https://yuzukeycaps.com/c/128e829f-b237-4e82-8b0e-f7e783138823
 <b>Note</b><br>
 I do not get any funds from Yuzu for linking their page and mentioning their keycaps.<br> 
 31.10.2026:<br>
-The club PETSCII (X-Keycap) was previously not perfect due to the interpretation of my SVG file for the X legend. I have noticed it from my own order and have corrected it. The keycap sets were corrected and the new URL is provided.
+The club PETSCII (X-Keycap) was previously not perfect due to the interpretation of my SVG file for the X legend. I have noticed it from my own order and have corrected it. The keycap sets were corrected and the new URL is provided. The problem was barely visible.
